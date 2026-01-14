@@ -379,6 +379,8 @@ h2 {
     margin: 10px;
 }
 
-.invisible {
-    display: none;
+/* Escondendo elementos */
+.invisible- {
+    display: none; /* propriedade invisivel*/
+    color: #16c516;
 }
