@@ -360,3 +360,25 @@ h2 {
 .big {
     font-size: 78px;
 }
+
+/* Display */
+.inline-box {
+    width: 50px;
+    height: 50px;
+    background-color: #4f8;
+    margin: 10px;
+    display: inline-block;
+    /*coloca os blocos lado a lado*/
+}
+
+.block {
+    background-color: #333;
+    color: white;
+    display: block;
+    /*coloca os blocos um abaxo do outro*/
+    margin: 10px;
+}
+
+.invisible {
+    display: none;
+}
