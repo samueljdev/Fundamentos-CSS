@@ -59,3 +59,12 @@ h2 {
     color: #a5f;
     /* color: #aa55ff;*/
 }
+
+/* RGB */
+.rgb {
+    color: rgb(255, 0, 0);
+}
+
+.mixed-rgb {
+    color: rgb(199, 21, 47);
+}
