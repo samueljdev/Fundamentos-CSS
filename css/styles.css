@@ -381,6 +381,16 @@ h2 {
 
 /* Escondendo elementos */
 .invisible- {
-    display: none; /* propriedade invisivel*/
+    display: none;
+    /* propriedade invisivel*/
     color: #16c516;
+}
+
+/* Position Static */
+.static {
+    position: static;
+    background-color: #391;
+    color: #fff;
+    width: 100px;
+    height: 100px;
 }
