@@ -111,3 +111,10 @@ h2 {
     background-color: rgba(90, 120, 20, 0.2);
     color: #000;
 }
+
+/* Imagem no background */
+.bg-image {
+    background-image: url("../img/nature.jpg");
+    padding: 10px;
+    color: #fff;
+}
