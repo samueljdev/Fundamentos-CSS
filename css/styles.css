@@ -179,3 +179,18 @@ h2 {
     /* padding: 10px 20px 10px 20px; */
     color: #fff;
 }
+
+/* Padding e width */
+.without-border-box {
+    background-color: #444;
+    width: 400px;
+    padding: 50px;
+}
+
+.border-box {
+    background-color: #666;
+    width: 400px;
+    padding: 50px;
+    box-sizing: border-box;
+    /* aplicar a boa prática box-sizing*/
+}
